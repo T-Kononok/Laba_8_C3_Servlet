@@ -1,0 +1,7 @@
+org\mycompany\myname\ChatMessage.class
+org\mycompany\myname\MessageListServlet.class
+org\mycompany\myname\NewMessageServlet.class
+org\mycompany\myname\LogoutServlet.class
+org\mycompany\myname\ChatServlet.class
+org\mycompany\myname\ChatUser.class
+org\mycompany\myname\LoginServlet.class
